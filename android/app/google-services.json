@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "60127147328",
+    "project_id": "eproject-a6a29",
+    "storage_bucket": "eproject-a6a29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60127147328:android:86d3a393118cd52bc576a5",
+        "android_client_info": {
+          "package_name": "com.example.images"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9JTvtWsVzFhLC9DmfHuWmYNCccO_Lmq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
